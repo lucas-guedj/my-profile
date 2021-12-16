@@ -1,0 +1,56 @@
+h1 {
+	color: #155843;
+	font-size: 50px;
+	font-family: 'Krona One', sans-serif;
+ 	letter-spacing: 1px;
+} 
+
+body {
+	background-color:#155843;
+	font-weight: 100;
+	font-family: 'Krona One',sans-serif;
+
+}
+
+body:hover {
+	color: #D83715
+}
+ 
+.fond-blanc{
+
+	border: 1px solid white;
+	background-color: white;
+	border-radius: 10px;
+	padding: 50px;
+	margin: 40px;
+	text-align: center;
+
+}
+
+
+#image-circle{
+
+	border-radius: 30px;
+}
+
+ 
+
+.btn{
+
+	background-color: #155843;
+	color: white;
+	font-weight: bold;
+	padding: 15px;
+	border-radius: 30px;
+	text-decoration: none;
+}
+
+#titre1{
+	color: #155843
+}
+
+
+.container {
+	width: 700px;
+	margin: 0 auto;              
+}
